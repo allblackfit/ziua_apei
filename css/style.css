@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://tv8.md/resources/2022/03/22/b4ad71b4-6709-4df8-b52c-cd1f259ef6a6_Screenshot3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+aside {
+    background-color: rgb(232, 239, 246);
+    opacity: 0.8;
+    float: left;
+    margin-left: 10px;
+    min-height: 80vh;
+    border-radius: 10px;
+    width: 18%;
+}
+
+nav {
+    margin-left: 10%;
+}
+
+h1 {
+
+    padding: 10px;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(76, 72, 72);
+    text-decoration: none;
+}
+
+div {
+    padding: 15px;
+    background-color: rgba(230, 248, 235, 0.95);
+    margin-left: 20%;
+    margin-top: 50px;
+    max-width: 70%;
+    min-height: 80vh;
+    border-radius: 10px;
+}
+
+p {
+    text-indent: 30px;
+    margin: 0 0 0 0;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.myImg {
+    width: 250px;
+    
+}
+
+table {
+    border-collapse: collapse;
+
+}
+
+h3 {
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+
+p1 {
+    font-size: 18px;
+    text-indent: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li {
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.myefrem {
+    margin-left: 13px;
+}
+
+
+
+h2 {
+    font-family: 'Lobster', cursive;
+}
+
+.myH3 {
+    font-family: 'Lobster', cursive;
+    margin-left: 4%;
+    font-size: 23px;
+}
+
+.myP {
+    margin:0 0 0 12px;
+    font-size:17px;
+}
+.myImg2{
+    width:450px;
+    height:350px;
+    margin-left:6%;
+    border-radius:7px;
+    
+}
+.img12{
+    margin-left:13px;
+    
+}
+.myefrem2 {
+    margin-left: 6%;
+    border-radius:7px;
+}
